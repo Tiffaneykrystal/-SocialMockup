@@ -1,0 +1,151 @@
+#page_header {
+  background-color: #365899;
+  width: 850px;
+  height: 350px;
+  margin: auto;
+  color: white;
+}
+
+#pagename {
+  position: relative;
+  line-height: 30px;
+  top: 80%;
+  left: 5%;
+  margin-bottom: 1px;
+}
+
+#website {
+  position: relative;
+  line-height: 30px;
+  top: 78%;
+  left: 5%;
+  margin-top: 10px;
+}
+
+#nav_bar {
+  width: 850px;
+  margin: auto;
+  background-color: white;
+  height: 40px;
+}
+
+body {
+  background-color: #e9eaed;
+  width: 850px;
+  margin: 0 auto;
+  font-family: helvetica;
+}
+
+#profile_pic {
+  width: 175px;
+  height: 175px;
+  background-color: #365899;
+  margin: 0 auto;
+  left: 30px;
+  top: 200px;
+  bottom: ;
+  right: ;
+  float: left;
+  position: relative;
+  border: 1px solid black;
+}
+
+.nav_icon {
+  left: 25%;
+  top: 10px;
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+  border-right: 1px dotted gray;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+a {
+  color: #365899;
+  text-decoration: none;
+}
+
+a:active {
+  font-weight: bold;
+  color: black;
+}
+a:hover {
+  font-weight: bold;
+}
+
+
+/*COLUMNS BEGIN*/
+
+.column-left {
+  width: 38.8%;
+  background-color: white;
+  float: left;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+.column-right {
+  width: 60%;
+  background-color: white;
+  float: left;
+  margin-top: 10px;
+}
+
+.columns-layout {
+  width: 850px;
+  margin: 0 auto;
+}
+
+.website-address {
+  font-family: arial;
+}
+
+.list li {
+  float: left;
+  list-style-type: none;
+  padding: 5px;
+}
+
+/*.column-right-top {}*/
+
+.blue-pic {
+  /* width: ; */
+  height: 100px;
+  background-color: #365899;
+}
+
+.header-text {
+  font-family: helvetica;
+}
+
+.paragraph-text p {
+  font-family: helvetica;
+}
+
+.row-2-column-1 {
+  width: 38.8%;
+  background-color: white;
+  float: left;
+  margin-right: 10px;
+  position: relative;
+  top: 5px
+}
+
+.row-2-column-2 {
+  width: 60%;
+  float: left;
+  background-color: white;
+  margin-top: 10px;
+  
+  /* text-align: center; */
+  /* vertical-align: middle; */
+}
+.row-3-column-1 {
+  width: 38.8%;
+  background-color: white;
+  float: left;
+  margin-right: 10px;
+  position: relative;
+  top: -60px;
+}
